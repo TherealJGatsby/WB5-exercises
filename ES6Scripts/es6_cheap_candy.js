@@ -36,7 +36,3 @@ if(skittlesProducts.length > 0) {
     console.log("No we do not have Skittles ");
 }
 
-
-
-
-
