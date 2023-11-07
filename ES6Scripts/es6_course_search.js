@@ -55,5 +55,5 @@ function courseTitle(title) {
 
 let course = courses.find(courseTitle);
 
-console.table("PROG200 starts in: " + courseSelected.StartDate);
+console.log("PROG200 starts on: " + courseSelected.StartDate);
 console.log("The title of PROJ500 is: " + course.Title);
